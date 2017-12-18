@@ -8,5 +8,8 @@
 </head>
 <body>
 <h3>github repository test</h3>
+<ol>
+	<li> repository에 commit하기</li>
+</ol>
 </body>
 </html>
